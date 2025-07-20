@@ -31,14 +31,24 @@ Use basic assets for compariison univ: US eq, bonds, Eu eq, bond, EEM eq and bon
 2. econ prof level: hist data plus "reasoning" supply/demand changes - - requires production data (unknown source right now)
 
 > [!NOTE]
->    [This would have to be at a very long time scale - decades? But this supports our punch-line  - commodities are the occassional asset classes]
-
-3. What constitutes an Asset Class?
-
-> [!NOTE]
->    []Real Assets are claims (long a call option) on productive processes. Processes are intrinsically renewable (or repeatable?), their inputs may  be. consumed, or not.
+> This would have to be at a very long time scale - decades? But this supports our punch-line  - commodities are the occassional asset classes
+> 
+> Real Assets are claims (long a call option) on productive processes. Processes are intrinsically renewable (or repeatable?), their inputs may  be. consumed, or not.
 > 
 > Mediums of exchange are not  obviously assets in this sense but storing them or using them as a part of a process can elevate them to being a "iReal Asset", like a bond.  If the medium is sufficiently fungible (uniform?), can be identified (brand value?)  then a store of it can be useful to lend out to people who need it - as credit or even just charging people a convenience fee to store it. Maybe we confuse the inputs with the process too much?]
+>
+> What the asset *yields* might be reflective of the value of the underlying process. PE ratios on pure management quality , without diversified customer bases are generally weak. Diversified meaning customers who would not find it trivial to substitute your product with another. Famers, miners and business with only one customer are supplying to other businesses like that. The PE ration can be used to create a hierarchy of earnings quality, perhaps reflective of this?
+>
+> Why do producers have an 'over production bias', is it to force out other producers or is it the intrinsic drive for capacity utilizaton?
+>
+> When playing against a superior opponent - like a miner or farmer might be trying to supply a sophistcated conglomerate - the outcome maximzing techique is to play for the least worst out come. What does a miner or farmer do in this circumstance? Capacity utilization should be high, labor and variable expenses low (is there a known analytic factor that captures these? There is an accounting metric). Leverage should only be used to build capacity utilization? 
+>
+> Can a structutal risk approach help with extraction, processing, shipping and use modeling?
+>
+> If we consider different types of economic growth - consumptopn, investment, productive and innovative - where do commodities fit in? Do commodities benefit (as pricing power) from one of these growth types or do they benefit from a counter cycle in one of these growth types? Can these growth types be extracted from analytic factors and then modeled as pro- and counter- to see?
+>
+> 
+
 
 4. a BIG question. Answer is smaller than you think
 5. enables us to bring in BTC as a test
